@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfoliop/static/css/main.b86b7eba.chunk.css",
+    "main.js": "/portfoliop/static/js/main.2d37b3af.chunk.js",
+    "main.js.map": "/portfoliop/static/js/main.2d37b3af.chunk.js.map",
+    "runtime-main.js": "/portfoliop/static/js/runtime-main.82271195.js",
+    "runtime-main.js.map": "/portfoliop/static/js/runtime-main.82271195.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/portfoliop/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d6256108.chunk.js": "/portfoliop/static/js/2.d6256108.chunk.js",
+    "static/js/2.d6256108.chunk.js.map": "/portfoliop/static/js/2.d6256108.chunk.js.map",
+    "index.html": "/portfoliop/index.html",
+    "precache-manifest.f0ff2025e350ce155cb3b45470170519.js": "/portfoliop/precache-manifest.f0ff2025e350ce155cb3b45470170519.js",
+    "service-worker.js": "/portfoliop/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/portfoliop/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b86b7eba.chunk.css.map": "/portfoliop/static/css/main.b86b7eba.chunk.css.map",
+    "static/js/2.d6256108.chunk.js.LICENSE.txt": "/portfoliop/static/js/2.d6256108.chunk.js.LICENSE.txt",
+    "static/media/battles.gif": "/portfoliop/static/media/battles.26c4e63b.gif",
+    "static/media/css.svg": "/portfoliop/static/media/css.2db97d69.svg",
+    "static/media/dealnodeal.gif": "/portfoliop/static/media/dealnodeal.1650bd9e.gif",
+    "static/media/dinebud.png": "/portfoliop/static/media/dinebud.77eaba4c.png",
+    "static/media/git.svg": "/portfoliop/static/media/git.7445fd16.svg",
+    "static/media/github.svg": "/portfoliop/static/media/github.8f8edc5f.svg",
+    "static/media/html5.svg": "/portfoliop/static/media/html5.42a4aedd.svg",
+    "static/media/javascript.svg": "/portfoliop/static/media/javascript.dc2fc5be.svg",
+    "static/media/linked-circle.svg": "/portfoliop/static/media/linked-circle.e5289347.svg",
+    "static/media/me-circle.png": "/portfoliop/static/media/me-circle.eeb23450.png",
+    "static/media/postgresql.svg": "/portfoliop/static/media/postgresql.f16a2cda.svg",
+    "static/media/prework-learn2.png": "/portfoliop/static/media/prework-learn2.159a804e.png",
+    "static/media/rails.svg": "/portfoliop/static/media/rails.2db29782.svg",
+    "static/media/react.svg": "/portfoliop/static/media/react.9a28da9f.svg",
+    "static/media/resume-blue.svg": "/portfoliop/static/media/resume-blue.f571158f.svg",
+    "static/media/resume.pdf": "/portfoliop/static/media/resume.4d25a557.pdf",
+    "static/media/ruby.svg": "/portfoliop/static/media/ruby.514befa7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82271195.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d6256108.chunk.js",
+    "static/css/main.b86b7eba.chunk.css",
+    "static/js/main.2d37b3af.chunk.js"
+  ]
+}
